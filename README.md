@@ -1,7 +1,7 @@
 # 🚛 Excel Logistics Dashboard
 
 ## 🎥 Dashboard Preview
-![Excel Logistics Dashboard Preview](Demo-ProjectLogisticData-gif)
+![Excel Logistics Dashboard Preview](Demo-ProjectLogisticData-gif.gif)
 
 ## 📊 Overview
 A small step to showcase data exploration in the **logistics industry**.  
