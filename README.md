@@ -27,9 +27,9 @@ All features are built **without VBA or macros**, focusing on clean logic and us
 ## 🧩 Key Features
 | Feature | Description |
 |----------|--------------|
-| **Revenue Dashboard** | Displays total revenue trends and breakdown by truck type or period. |
-| **Operational Dashboard** | Monitors performance metrics such as shipment volume and truck utilization. |
-| **Service Level Dashboard** | Tracks delivery punctuality and service reliability. |
+| **Revenue Dashboard** | Displays total revenue trends and breakdown by truck type or period. Income target is also available. |
+| **Operational Dashboard** | Monitors performance metrics such as revenue againts fuel cost and driver performance. |
+| **Service Level Dashboard** | Tracks status delivery punctuality including on-time rate, late count by route, and revenue loss analysis by cancellation causes. |
 | **Timeline & Filters** | Enable users to interactively explore performance over time and categories. |
 
 ---
